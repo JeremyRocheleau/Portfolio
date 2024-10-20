@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-- M.S., Data Science | Eastern University at St. Davids, Pennsylvania (2024)
-- B.S., Mathematics | Lyndon State College at Lyndonville, Vermont (2012)
+- M.S., Data Science | Eastern University at St. Davids, PA (2024)
+- B.S., Mathematics | Lyndon State College at Lyndonville, VT (2012)
 
 ### Work Experience
 Data Analyst @ NFL (April 2024 - Present)**
