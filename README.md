@@ -8,7 +8,6 @@ Masters Degree in Data Science
 Data Analyst @ NFL 
 - Engineered data pipelines using DBT to AWS
 - Worked with all 32 clubs to help engineer data between the league and the clubs
-- 
 
 Senior Data Analyst @ EverBank 
 
