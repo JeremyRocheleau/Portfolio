@@ -5,11 +5,13 @@
 - B.S., Mathematics | Lyndon State College at Lyndonville, Vermont (2012)
 
 ### Work Experience
-Data Analyst @ NFL 
-- Engineered data pipelines using DBT to AWS
+Data Analyst @ NFL (April 2024 - Present)**
+- Uncovered and corrected missing steps in production data pipelines which impacted over 70% active accounts
 - Worked with all 32 clubs to help engineer data between the league and the clubs
 
-Senior Data Analyst @ EverBank 
+Senior Data Analyst @ EverBank (November 2017 - April 2024)**
+- Redeveloped loan organizations model which resulted in 60% improvement in model performance and saving 2 million in potential losses
+- 
 
 Programmer II @ Beacon Health Options
 
