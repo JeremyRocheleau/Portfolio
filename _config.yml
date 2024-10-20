@@ -2,4 +2,4 @@ title: Jeremy Rocheleau
 logo: assets/headshot_circle.png
 description: Data Science Portfolio
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: minimal #jekyll-theme-minimal
