@@ -7,10 +7,11 @@
 ### Work Experience
 Data Analyst @ NFL (April 2024 - Present)
 - Uncovered and corrected missing steps in production data pipelines which impacted over 70% active accounts
+- Implemented a customer segmentation algorithm to analyze the Voice of the Fan survey data, which helped improved their season ticket renewal rate by 30%
 - Worked with all 32 clubs to help engineer data between the league and the clubs
 - Engineered data pipelines to pull data from multiple sources
 
-Senior Data Analyst @ EverBank (November 2017 - April 2024)**
+Senior Data Analyst @ EverBank (November 2017 - April 2024)
 - Redeveloped loan organizations model which resulted in 60% improvement in model performance and saving 2 million in potential losses
 - Applied cluster analysis to segment customers, which enhanced personalized marketing strategies and grew campaign ROI by 21%
 - Reduced forecasting errors by 40% by using time series models within Scikit-Learn
@@ -39,13 +40,12 @@ Project 2: Traffic Prediction
 - https://github.com/slamdunk061/Traffic_Prediction
 
 Project 3: Credit Card Default
+- Analyze credit card transactions to determine a trend in defaulting on a loan
 - 
 
-Project 4: Baseball dataset
-- Engineered data coming in from PyBaseball for the last 10 years
-- Uploaded data into an SQL Database
-- Created machine learning algorithm to predict the outcome of the pitch
-
+Project 4: Baseball Pitch Prediction
+- Analyze 10 years of MLB pitches by utilizing statcast data
+- Implement an algorithm to predict the next pitch a pitcher will throw
 
 
 
