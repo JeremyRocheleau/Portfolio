@@ -46,6 +46,7 @@ Project 3: Credit Card Default
 Project 4: Baseball Pitch Prediction
 - Analyze 10 years of MLB pitches by utilizing statcast data
 - Implement an algorithm to predict the next pitch a pitcher will throw
+- Coming soon
 
 
 
