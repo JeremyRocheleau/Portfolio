@@ -41,7 +41,7 @@ Project 2: Traffic Prediction
 
 Project 3: Credit Card Default
 - Analyze credit card transactions to determine a trend in defaulting on a loan
-- 
+- https://github.com/JeremyRocheleau/Credit_Default
 
 Project 4: Baseball Pitch Prediction
 - Analyze 10 years of MLB pitches by utilizing statcast data
