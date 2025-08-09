@@ -5,7 +5,7 @@
 - B.S., Mathematics | Lyndon State College at Lyndonville, VT (2012)
 
 ### Work Experience
-Data Analyst @ NFL (April 2024 - Present)
+Senior Data Analyst @ NFL (April 2024 - Present)
 - Uncovered and corrected missing steps in production data pipelines which impacted over 70% active accounts
 - Implemented a customer segmentation algorithm to analyze the Voice of the Fan survey data, which helped improved their season ticket renewal rate by 30%
 - Worked with all 32 clubs to help engineer data between the league and the clubs
